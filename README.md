@@ -13,5 +13,17 @@ Mediterranean and the Black Sea.
 
 <img src="diagram.png" width="800">
 
-Further information can be found in the
-[launch event presentation](2021_01_18_launch_event.pdf).
+## Download version 2021-01-15
+
+Excel STAR template
+
+* [star-template.xlsx](https://github.com/gfcm/star/releases/download/2021-01-15/star_template.xlsx)
+
+## User documentation
+
+Guidelines for users is provided in three places:
+
+1. Usage comments within the [Excel template](star_template.xlsx) sheets
+2. Sheet highlighting the [logic](logic.pdf) behind the Excel formulas
+3. Overview of the STAR framework and wider context in the launch event
+   [presentation](2021_01_18_launch_event.pdf).
