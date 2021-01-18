@@ -23,7 +23,9 @@ Mediterranean and the Black Sea.
 
 Guidelines for users is provided in three places:
 
-1. Usage comments within the [Excel template](star_template.xlsx) sheets
+1. Usage comments within the
+   [Excel template](https://github.com/gfcm/star/raw/main/star_template.xlsx)
+   sheets
 2. Sheet highlighting the [logic](logic.pdf) behind the Excel formulas
 3. Overview of the STAR framework and wider context in the launch event
    [presentation](2021_01_18_launch_event.pdf).
