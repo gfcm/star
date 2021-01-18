@@ -13,13 +13,13 @@ Mediterranean and the Black Sea.
 
 <img src="diagram.png" width="800">
 
-## Download version 2021-01-15
+## Download newest version of Excel template
 
-Excel STAR template
+*2021-01-15*
 
 * [star-template.xlsx](https://github.com/gfcm/star/releases/download/2021-01-15/star_template.xlsx)
 
-## User documentation
+### User documentation
 
 Guidelines for users is provided in three places:
 
