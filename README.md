@@ -19,7 +19,7 @@ Mediterranean and the Black Sea.
 
 * [star-template.xlsx](https://github.com/gfcm/star/releases/download/2021-01-15/star_template.xlsx)
 
-### User documentation
+## User documentation
 
 Guidelines for users is provided in three places:
 
@@ -28,4 +28,4 @@ Guidelines for users is provided in three places:
    sheets
 2. Sheet highlighting the [logic](logic.pdf) behind the Excel formulas
 3. Overview of the STAR framework and wider context in the launch event
-   [presentation](2021_01_18_launch_event.pdf).
+   [presentation](2021_01_18_launch_event.pdf)
