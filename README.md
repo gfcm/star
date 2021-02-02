@@ -11,7 +11,7 @@ in 2021. It will serve as a foundation to provide a variety of
 quality-controlled data products related to the management of fisheries in the
 Mediterranean and the Black Sea.
 
-<img src="diagram.png" width="800">
+<a href="#star"><img src="diagram.png" width="800"></a>
 
 ## Download newest version of Excel template
 
