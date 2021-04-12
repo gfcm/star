@@ -1,24 +1,13 @@
 Version 2.0.0 (2021-04-12)
 --------------------------
 
-**Readme sheet**
-
-* Defined table object Version.
-
-
 **Metadata sheet**
-
-* Removed Stock_Information table object definition.
 
 * Added Countries.
 
 * Added Assessment Type.
 
 * Added Reporting Year.
-
-* Defined table object From_TimeSeries.
-
-* Renamed table object Advice_Table -> For_Advice.
 
 * Formatted GSA cells as text in Metadata, to make them easier to type directly.
 
@@ -41,8 +30,6 @@ Version 2.0.0 (2021-04-12)
 * Renamed sheet Summary -> TimeSeries.
 
 * Rearranged unit cells, so they are close to the corresponding columns.
-
-* Renamed table object Summary_Table -> TS_Table.
 
 * Changed label Fishing Pressure Type -> Exploitation Unit.
 
@@ -77,8 +64,7 @@ Version 2.0.0 (2021-04-12)
 * Quantitative Status with respect to B is based on Bmsy, Bpa, and Blim - not on
   B0.33 or B0.66.
 
-* Added GSA_Countries table object, containing comma-separated GSA Names and
-  Countries.
+* Added GSA_Countries, containing comma-separated GSA Names and Countries.
 
 ---
 
