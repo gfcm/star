@@ -1,5 +1,5 @@
 Version 2.0.0 (2021-04-12)
-------------------------------
+--------------------------
 
 **Readme sheet**
 
@@ -80,8 +80,7 @@ Version 2.0.0 (2021-04-12)
 * Added GSA_Countries table object, containing comma-separated GSA Names and
   Countries.
 
-
-
+---
 
 Version 1.0.0 (2021-01-15)
 --------------------------
