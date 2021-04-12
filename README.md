@@ -32,4 +32,4 @@ Guidelines for users are provided in four places:
    [Excel template](https://github.com/gfcm/star/raw/main/star_template.xlsx)
    sheets
 3. Sheet highlighting the [logic](logic.pdf) behind the Excel formulas
-4. User-visible changes are listed in the [NEWS.md](NEWS.md) version history
+4. Changes between versions are listed in the [NEWS.md](NEWS.md) file
