@@ -15,7 +15,7 @@ Mediterranean and the Black Sea.
 
 ## Download newest Excel template
 
-*Version 2.0.0*
+**Version 2.0.0**
 
 *12 Apr 2021*
 
