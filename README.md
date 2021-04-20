@@ -19,7 +19,7 @@ Mediterranean and the Black Sea.
 
 *12 Apr 2021*
 
-[star-template.xlsx](../../releases/download/2.0.0/star_template.xlsx)
+[star_template.xlsx](../../releases/download/2.0.0/star_template.xlsx)
 
 Features:
 
@@ -35,7 +35,7 @@ Guidelines for users are provided in four places:
 
 1. Overview of the STAR framework and wider context in the launch event
    [presentation](2021_01_18_launch_event.pdf)
-2. Usage comments within the [Excel template](../../raw/main/star_template.xlsx)
+2. Usage comments within the [Excel template](../../raw/main/STAR_template.xlsx)
    sheets
 3. Sheet highlighting the [logic](logic.pdf) behind the Excel formulas
 4. Changes between versions are listed in the [NEWS.md](NEWS.md) file
