@@ -15,17 +15,17 @@ Mediterranean and the Black Sea.
 
 ## Download newest Excel template
 
-**Version 2.0.0**
+**Version 2.1.0**
 
-*12 Apr 2021*
+*20 Apr 2021*
 
-[star_template.xlsx](../../releases/download/2.0.0/star_template.xlsx)
+[STAR_template.xlsx](../../releases/download/2.1.0/STAR_template.xlsx)
 
-Features:
+Main new features introduced in version 2:
 
-- New input fields - Countries, Assessment Type, and Reporting Year
-- Automatic calculations of B0.33, B0.66, and Stock Status text
-- Advice output is now more closely aligned with the final Table of Advice
+* New input fields - Countries, Assessment Type, and Reporting Year
+* Automatic calculations of B0.33, B0.66, and Stock Status text
+* Advice output is now more closely aligned with the final Table of Advice
 
 See [NEWS.md](NEWS.md) for a full list of user-visible changes.
 

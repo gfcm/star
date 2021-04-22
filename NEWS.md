@@ -1,3 +1,23 @@
+Version 2.1.0 (2021-04-20)
+--------------------------
+
+**Metadata and TimeSeries sheets**
+
+* Moved dimensions (age or length at recruitment, Fbar age or length) from
+  Metadata to TimeSeries.
+
+**Advice sheet**
+
+* GSA codes are formatted as comma-separated without spaces.
+
+* Improved format for Current Levels, Reference Points, and Quantitative Status,
+  using period as decimal separator, independent of user locale.
+
+* Removed locale-dependent 0.00 format from Current Levels and Quantitative
+  Status.
+
+---
+
 Version 2.0.0 (2021-04-12)
 --------------------------
 
