@@ -15,11 +15,11 @@ Mediterranean and the Black Sea.
 
 ## Download newest Excel template
 
-**Version 2.1.0**
+**Version 2.1.1**
 
-*20 Apr 2021*
+*23 Apr 2021*
 
-[STAR_template.xlsx](../../releases/download/2.1.0/STAR_template.xlsx)
+[STAR_template.xlsx](../../releases/download/2.1.1/STAR_template.xlsx)
 
 Main new features introduced in version 2:
 
