@@ -13,13 +13,13 @@ Mediterranean and the Black Sea.
 
 <a href="#star"><img src="diagram.png" width="800"></a>
 
-## Download newest Excel template
+## Download newest Excel STAR template
 
-**Version 2.1.1**
+**Version 2.1.2**
 
-*23 Apr 2021*
+*30 Apr 2021*
 
-[STAR_template.xlsx](../../releases/download/2.1.1/STAR_template.xlsx)
+[STAR_template.xlsx](../../releases/download/2.1.2/STAR_template.xlsx)
 
 Main new features introduced in version 2:
 
@@ -35,7 +35,16 @@ Guidelines for users are provided in four places:
 
 1. Overview of the STAR framework and wider context in the launch event
    [presentation](2021_01_18_launch_event.pdf)
-2. Usage comments within the [Excel template](../../raw/main/STAR_template.xlsx)
-   sheets
+2. Usage comments within the
+   [Excel STAR template](../../raw/main/STAR_template.xlsx) sheets
 3. Sheet highlighting the [logic](logic.pdf) behind the Excel formulas
 4. Changes between versions are listed in the [NEWS.md](NEWS.md) file
+
+**Note on version numbering**
+
+The Excel STAR template has a three-part version number: *major.minor.patch*.
+These are incremented based on the following rules:
+
+* MAJOR version when database structure needs to be changed
+* MINOR version when R import function needs to be changed
+* PATCH version when changes are backwards compatible

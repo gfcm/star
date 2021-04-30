@@ -1,3 +1,12 @@
+Version 2.1.2 (2021-04-30)
+--------------------------
+
+**Metadata sheet**
+
+* Current F and Current B are not calculated if VPA-Type Model is blank.
+
+---
+
 Version 2.1.1 (2021-04-23)
 --------------------------
 
