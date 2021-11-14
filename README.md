@@ -1,7 +1,7 @@
 # STAR
 
 Stock Assessment Results (STAR) is a new framework to organize
-[GFCM](http://www.fao.org/gfcm/en/) stock assessment results.
+[GFCM](https://www.fao.org/gfcm/en/) stock assessment results.
 
 It streamlines and automates the **information flow** from stock assessments to
 scientific advice, strengthens **quality assurance** and **data dissemination**.
@@ -12,6 +12,10 @@ quality-controlled data products related to the management of fisheries in the
 Mediterranean and the Black Sea.
 
 <a href="#star"><img src="diagram.png" width="800"></a>
+
+An R package [gfcmSTAR](https://github.com/gfcm/gfcmSTAR) is used by STAR
+administrators to manage the template-to-database import pipeline and quality
+control.
 
 ## Download newest Excel STAR template
 
