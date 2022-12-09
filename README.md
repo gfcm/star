@@ -19,11 +19,20 @@ control.
 
 ## Download newest Excel STAR template
 
-**Version 2.1.2**
+**Version 2.1.3**
 
-*30 Apr 2021*
+*09 Dec 2022*
 
-[STAR_template.xlsx](../../releases/download/2.1.2/STAR_template.xlsx)
+[STAR_template.xlsx](../../releases/download/2.1.3/STAR_template.xlsx)
+
+Minor changes introduced in version 2.1.3:
+
+**Metadata sheet**
+* Revised Reference Points for "F or E target",  now allowing for the values: Fe40, Fb40, Fb35, Fspr40, F/M.
+
+**TimeSeries sheet**
+* Time series table extended by 3 new columns (Fishing_lower2, Fishing2, Fishing_upper2) .
+* Added the dropdown field "Fishing Exploitation Indicator 2", accepting the values F/Fgt and E/E40. 
 
 Main new features introduced in version 2:
 
